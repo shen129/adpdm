@@ -1,7 +1,7 @@
 # adpdm
 Advance Preparation Required:
 1. Synthesizing data
-2. Writing training code
+2. Preparing training schedule
 
 ## Including content
 ### 1. adpdm
