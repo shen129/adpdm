@@ -1,4 +1,7 @@
 # adpdm
+Advance Preparation Required:
+1. Synthetic data
+2. Writing training code
 
 ## Including content
 ### 1. adpdm
@@ -9,3 +12,9 @@
 
 ### 3. demo.py
   The demo to show how to build the algorithm and the network.
+
+
+## Minor requirements
+1. diffusers
+2. torch
+3. yaml
