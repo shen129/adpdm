@@ -1,6 +1,6 @@
 # adpdm
 Advance Preparation Required:
-1. Synthetic data
+1. Synthesizing data
 2. Writing training code
 
 ## Including content
