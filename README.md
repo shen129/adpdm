@@ -17,4 +17,6 @@ Advance Preparation Required:
 ## Minor requirements
 1. diffusers
 2. torch
-3. yaml
+3. torchaudio
+4. torchvision
+5. yaml
